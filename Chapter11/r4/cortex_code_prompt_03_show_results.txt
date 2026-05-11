@@ -1,0 +1,1 @@
+Show the results of the table that was just created, ordered by total sales descending.
