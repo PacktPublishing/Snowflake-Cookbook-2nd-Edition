@@ -1,0 +1,1 @@
+Explain how this solution works, including how total sales are calculated, how customers are ranked, and how the AI-generated insight is created.

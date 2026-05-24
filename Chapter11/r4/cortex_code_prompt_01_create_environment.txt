@@ -1,0 +1,1 @@
+Create the Snowflake SQL needed to set up a database and schema for a chapter 11 Cortex Code recipe. Use a database named C11_R4 and the PUBLIC schema.

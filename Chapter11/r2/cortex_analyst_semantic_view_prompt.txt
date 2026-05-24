@@ -1,0 +1,7 @@
+Question – What was the total sales by region?
+
+SQL Query
+
+SELECT REGION, SUM(SALES_AMOUNT) AS TOTAL_SALES
+FROM C11_R2.PUBLIC.SALES
+GROUP BY REGION;
